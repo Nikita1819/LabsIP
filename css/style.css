@@ -1,0 +1,116 @@
+#peapleIconImg{
+    width:150px;
+    height: auto;
+}
+header{
+    background-color:rgb(170, 170, 170);
+}
+.headerLink{
+    color: black;
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: 600;
+}
+.textHeader{
+    margin-top: 50px;
+}
+.headerLink:hover{
+    color: white;
+    transition-duration: 1s;
+}
+main{
+    background-color: rgb(228, 200, 126);
+}
+.peopleImg{
+    width: 250px;
+    height: auto;
+}
+.informationMain{
+    font-size: 24px;
+    margin-top: 30px;
+}
+.informationIndex{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+footer{
+    padding-top:20px;
+    padding-bottom: 20px;
+    background-color: rgb(170, 170, 170 );
+}
+.textFooter{
+    font-size: 24px;
+    margin-top:20px;
+    font-weight: 600;
+}
+.imgFooter{
+    width:80px;
+    height: auto;
+}
+.indexmain{
+    margin:0 auto;
+    text-align: center;
+}
+.indexmain h3{
+    margin-bottom: 20px;
+}
+.buttonMain{
+    background-color:rgb(249, 198, 122);
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom:40px;
+    padding:18px 40px;  
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 250px!important;
+}
+.buttonMain:hover{
+    color:  rgb(170, 170, 170 );
+    transition-duration: 1s;
+    border-color:  rgb(170, 170, 170 );
+}
+.hobbieImg{
+    width:400px;
+    height:auto;
+}
+.hobbieMain{
+    padding-top:60px;
+    padding-bottom:60px;
+}
+.textHobbie{
+    text-align: center;
+    max-width: 400px;
+    margin-top:20px;
+    font-weight: 500;
+    font-size:18px;
+}
+.imgSlider{
+    max-width:400px;
+}
+.imgSlider{
+    height:300px;
+}
+.sliderContainer{
+    text-align: center;
+}
+.textSlider{
+    margin-top: 20px;
+}
+.galeryMain{
+    padding-top:70px;
+    padding-bottom: 70px;
+}
+.arrow{
+    width:100px;
+    height: auto;
+    cursor:pointer;
+}
+.arrows{
+    padding-bottom:50px;
+}
+.hobbieButton{
+    margin-top:50px;
+}
